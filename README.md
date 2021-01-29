@@ -33,9 +33,12 @@ I performed rule based analysis of twitter data to achieve the purpose. Rule bas
 
 Majority of people have neutral sentiment towards Hindi language imposition. Precisely, 86.92% people have neutral sentiment towards Hindi Language Imposition.9.4% people with negative sentiment and 3.6% people with positive sentiment.
 
-##Acknowledgemet
+##Acknowledgement
+
 First of all, Thanks to DataByte team for providing us necessary materials to complete the tasks. 
 Also, I want to thank Colab notebooks for allowing us to combine executable code and rich text in a single document, along with images, HTML, LaTeX and more for free.
 
 ##Medium_Link
+
+
 
